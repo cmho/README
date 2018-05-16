@@ -1,5 +1,6 @@
 # My leadership readme/operating manual
 
+WORK IN PROGRESS!!!
 ## General Notes
 
 **Eye contact**
