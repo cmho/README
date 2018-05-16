@@ -8,7 +8,7 @@ I'm a pretty friendly person but you may notice I don't hold eye contact for ver
 
 **What's the best way to get in touch with you?**
 
-If we're work teammates, I am basically always on Slack and very responsive, but don't respond to messages in the evening or on weekends unless it's an emergency or I've pre-arranged to work outside standard hours. If I'm in the office, it's also 100% okay to swing by my desk--just shoot me a message first to double-check that I'm at a good stopping point, and also because I startle easily when people show up behind me.
+If we're work teammates, I am basically always on Slack and very responsive, but don't respond to messages in the evening or on weekends unless it's an emergency or I've pre-arranged to work outside standard hours. If I'm in the office, it's also 100% okay to swing by my desk--just shoot me a message first to double-check that I'm at a good stopping point (strong chance it'll be fine!), and also because I startle easily when people show up behind me.
 
 ## Questions for our [first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
 
@@ -20,7 +20,8 @@ If we're work teammates, I am basically always on Slack and very responsive, but
 
 * vague or unclear requests without links or supporting screenshots :c
 * being under 80% or over 105% capacity
-* 
+* too many unplanned extra demands on my time
+* being too cold in the office
 
 **How will I know when you're grumpy?**
 
@@ -51,6 +52,7 @@ I love a spot of public recognition but I can get a little overwhelmed by it! If
 
 
 **What do you need from your manager?**
+
 
 
 **From your team?**
