@@ -1,6 +1,5 @@
 # My leadership readme/operating manual
 
-WORK IN PROGRESS!!!
 ## General Notes
 
 **Eye contact**
@@ -48,19 +47,17 @@ I prefer to get feedback as it happens, just so I can correct any problems as fa
 
 I love a spot of public recognition but I can get a little overwhelmed by it! If I look direly uncomfortable I am totally fine, I promise.
 
-**What makes 1:1s the most valuable for you?**
-
-
-
 **What do you need from your manager?**
 
-
+Reassurance that my work continues to be good (if applicable); direction on how to achieve goals that I've asked about, such as examples of how to demonstrate promotion qualities; help shifting around workload if it gets overwhelming.
 
 **From your team?**
 
+Feeling comfortable asking questions and being asked questions; being a sounding board for solving problems; help for areas outside my expertise; camaraderie.
 
 **From your peers? (outside the team)**
 
+Being able to ask questions and collaborate rather than receiving or giving orders or throwing something over the fence; exchanging ideas.
 
 **What's your favorite baked good?**
 
